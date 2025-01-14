@@ -10,7 +10,7 @@
 
 <h3 align="center">A passionate Web developer from India</h3>
 
-<img align="right" alt="Coding" width="300" src="https://user-images.githubusercontent.com/74038190/221352975-94759904-aa4c-4032-a8ab-b546efb9c478.gif">
+<img align="right" alt="Coding" width="300" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
  
 
 
